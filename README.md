@@ -1,12 +1,9 @@
-### Hi there! I'm Ella Schneyer 👋
+### Hi there! I'm Ella 👋
 
-I'm currently a rising senior at Edgemont Jr/Sr High School in Scarsdale, NY with aspirations to study CS in college. 
+I'm currently an incoming freshman at Cornell University, majoring in computer science within the College of Engineering. I graduated from Edgemont High School in Scarsdale, NY in June 2023.
 
-⚙️Co-Captain of [@edgemontrobotics](https://github.com/edgemontrobotics) and 💻Co-President of [@ehsprogramming](https://github.com/ehsprogramming)
+- 🔭 My tech interests include both web and mobile app development, human-computer interaction, and artificial intelligence. I look to apply software engineering principles in tandem with project management skills to solve complex real-world issues.     
+- 🌱 I’m currently sharpening my knowledge of data structures and algorithms and full stack web development
+- 📚 Languages and Frameworks: Java, Python, Javascript, HTML/CSS, SQL, React, React Native, Open CV
 
-
-- 🔭 I’m currently working on preparing Edgemont Robotics for our upcoming competition season and developing lessons/planning 
-events for the Edgemont Programming Club
-- 🌱 I’m currently learning more languages, algorithms, frameworks, and API's to improve my coding skills
-- 📕 Technical Skills: Python, Javascript, HTML, CSS, React, SQL, & Java
-- ⚡ Fun fact: I love jazz music!
+⚙️Former Co-Captain of [@edgemontrobotics](https://github.com/edgemontrobotics) and 💻Former Co-President of [@ehsprogramming](https://github.com/ehsprogramming)
