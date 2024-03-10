@@ -1,9 +1,10 @@
 ### Hi there! I'm Ella 👋
 
-I'm currently an incoming freshman at Cornell University, majoring in computer science within the College of Engineering. I graduated from Edgemont High School in Scarsdale, NY in June 2023.
+I'm a freshman at Cornell University, majoring in computer science within the College of Engineering and planning to minor in entreprenuership. I’m passionate about developing software and using project management skills to solve complex real-world problems and create a positive social impact.
 
-- 🔭 My tech interests include both web and mobile app development, human-computer interaction, and artificial intelligence. I look to apply software engineering principles in tandem with project management skills to solve complex real-world issues.     
-- 🌱 I’m currently sharpening my knowledge of data structures and algorithms and full stack web development
+- 🔭 My tech interests include full-stack web-development, machine-learning and data science, and distributed systems.
+- 📝 My relevant coursework includes Object-Oriented Programming & Data Structures, Discrete Structures, Linear Algebra, and Multivariable Calculus.
 - 📚 Languages and Frameworks: Java, Python, Javascript, HTML/CSS, SQL, React, React Native, Open CV
 
+📊 Data Engineer [@cornelldatascience](https://github.com/CornellDataScience)
 ⚙️Former Co-Captain of [@edgemontrobotics](https://github.com/edgemontrobotics) and 💻Former Co-President of [@ehsprogramming](https://github.com/ehsprogramming)
