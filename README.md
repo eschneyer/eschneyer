@@ -1,10 +1,11 @@
 ### Hi there! I'm Ella 👋
 
-I'm a freshman at Cornell University, majoring in computer science within the College of Engineering and planning to minor in entreprenuership. I’m passionate about developing software and using project management skills to solve complex real-world problems and create a positive social impact.
+I'm a driven rising sophomore at Cornell University majoring in computer science in the College of Engineering. I'm passionate about developing software to provide impactful solutions that address real world problems.
 
-- 🔭 My tech interests include full-stack web-development, machine-learning and data science, and distributed systems.
-- 📝 My relevant coursework includes Object-Oriented Programming & Data Structures, Discrete Structures, Linear Algebra, and Multivariable Calculus.
-- 📚 Languages and Frameworks: Java, Python, Javascript, HTML/CSS, SQL, React, React Native, Open CV
+- 🔎 My current interests include full-stack web/app development, machine-learning, data science, and entrepreneurship.
+- 📚 My relevant coursework includes Object-Oriented Programming & Data Structures, Discrete Structures, Linear Algebra, and Multivariable Calculus.
+- 🖥️ Technologies: Java, Python, SwiftUI, Flask, SQLAlchemy, Pandas, Scikit-Learn, HTML/CSS, JavaScript
+- 🛠️ Technical Tools: VSCode, IntelliJ, Xcode, Git, Docker, Redis, Firebase, Agile & Scrum Methodology
 
 📊 Data Engineer [@cornelldatascience](https://github.com/CornellDataScience)
-⚙️Former Co-Captain of [@edgemontrobotics](https://github.com/edgemontrobotics) and 💻Former Co-President of [@ehsprogramming](https://github.com/ehsprogramming)
+⚙️ Former Co-Captain of [@edgemontrobotics](https://github.com/edgemontrobotics) and 💻 Former Co-President of [@ehsprogramming](https://github.com/ehsprogramming)
